@@ -1,0 +1,20 @@
+{
+  "short_name": "Mysocial",
+  "name": "Influencer manager in your pocket",
+  "icons": [
+    {
+      "src": "icons/mysocial_256x256.ico",
+      "sizes": "256x256",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icons/mysocial_512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
